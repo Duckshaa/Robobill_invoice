@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 RoboBill
 ```
 ⬆️ (Replace above with your app's name)
 ```
@@ -19,7 +19,4 @@ This is filler text, please replace this with text for this section.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+I have created my app using Streamlit. The app reads your invoice and answers any questions you may have!
